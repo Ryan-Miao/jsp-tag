@@ -25,9 +25,17 @@ for idea: Run->edit configuration->remote
 
 
 ###refer:
+
+####Tomcat
 https://github.com/bmuschko/gradle-tomcat-plugin/blob/master/README.md   
 https://docs.gradle.org/current/userguide/gradle_command_line.html    
-https://docs.gradle.org/current/userguide/build_environment.html#sec:gradle_properties_and_system_properties    
+https://docs.gradle.org/current/userguide/build_environment.html#sec:gradle_properties_and_system_properties
+    
+####JSP tag
+http://www.runoob.com/jsp/jsp-debugging.html
+https://www.ibm.com/developerworks/cn/java/j-lo-jsp2tag/
+http://www.oschina.net/question/5189_4130
+
 
    
 
