@@ -10,6 +10,10 @@ apply plugin: 'com.bmuschko.tomcat-base'
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.13'
+}
+
 buildscript {
     repositories {
         jcenter()
